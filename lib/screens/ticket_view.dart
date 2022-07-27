@@ -32,7 +32,7 @@ class TicketView extends StatelessWidget {
                 children: [
                   Row(
                     children: [
-                      Text("NYC",
+                      Text("SGP",
                           style: Styles.headLineStyle3
                               .copyWith(color: Colors.white)),
                       const Spacer(),
@@ -88,7 +88,7 @@ class TicketView extends StatelessWidget {
                     children: [
                       SizedBox(
                         width: 100,
-                        child: Text("New-York",
+                        child: Text("Singapore",
                             style: Styles.headLineStyle4
                                 .copyWith(color: Colors.white)),
                       ),
@@ -175,7 +175,7 @@ class TicketView extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text("1 MAY", style: Styles.headLineStyle3.copyWith(color: Colors.white),),
+                          Text("1 AUG", style: Styles.headLineStyle3.copyWith(color: Colors.white),),
                           const Gap(5),
                           Text("DATE", style: Styles.headLineStyle4.copyWith(color: Colors.white),)
                         ],
@@ -191,9 +191,9 @@ class TicketView extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.end,
                         children: [
-                          Text("24", style: Styles.headLineStyle3.copyWith(color: Colors.white),),
+                          Text("24A", style: Styles.headLineStyle3.copyWith(color: Colors.white),),
                           const Gap(5),
-                          Text("Number", style: Styles.headLineStyle4.copyWith(color: Colors.white),)
+                          Text("Seat", style: Styles.headLineStyle4.copyWith(color: Colors.white),)
                         ],
                       ),
                     ],
