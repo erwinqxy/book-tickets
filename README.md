@@ -1,6 +1,6 @@
-# book-tickets
+# Book Tickets Flutter Application
 
-A new Flutter project for me to experience Flutter. 
+I started this project for me to experience and learn Flutter. 
 
 # Current Progress
 <img src="assets/product/3.png" width="200">
